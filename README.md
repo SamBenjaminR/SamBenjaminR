@@ -10,6 +10,14 @@ Software Developer | Java Developer | Electronics & Communication Engineer
 
 ---
 
+## 🌐 Personal Portfolio
+
+Modern responsive developer portfolio showcasing projects, skills and resume.
+
+🔗 https://sambenjaminr.github.io/portfolio/
+
+---
+
 # 👨‍💻 About Me
 
 🎓 Electronics & Communication Engineering Graduate
@@ -105,12 +113,6 @@ Software Developer | Java Developer | Electronics & Communication Engineer
 
 # 🚀 Featured Projects
 
-## 🚆 Smart Railway Ticket Verification System
-
-Machine Learning based railway ticket verification system using QR validation and fraud detection.
-
----
-
 ## 🚧 LiDAR-Based Predictive Road Surface Anomaly Detection
 
 Road anomaly detection using Raspberry Pi, TF-Luna LiDAR and Machine Learning.
@@ -123,13 +125,6 @@ Deep Learning based medical imaging project for early lung cancer prediction.
 
 ---
 
-## 🌐 Personal Portfolio
-
-Modern responsive developer portfolio showcasing projects, skills and resume.
-
-🔗 https://sambenjaminr.github.io/portfolio/
-
----
 
 # 📊 GitHub Statistics
 
