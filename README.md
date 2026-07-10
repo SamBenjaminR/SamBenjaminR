@@ -116,7 +116,7 @@ Modern responsive developer portfolio showcasing projects, skills and resume.
 
 Road anomaly detection using Raspberry Pi, TF-Luna LiDAR and Machine Learning.
 
-https://github.com/SamBenjaminR/lung-cancer-detection-YOLO-sybil
+https://github.com/SamBenjaminR/lidar-predictive-road-anomaly-detection
 
 ---
 
