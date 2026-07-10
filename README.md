@@ -26,7 +26,6 @@ Modern responsive developer portfolio showcasing projects, skills and resume.
 
 🚀 Interested in building scalable applications using Java and modern technologies.
 
-🤖 Experienced in Machine Learning, Computer Vision and Embedded Systems.
 
 🌱 Currently learning
 
@@ -34,11 +33,6 @@ Modern responsive developer portfolio showcasing projects, skills and resume.
 - Spring Boot
 - REST APIs
 - System Design
-
-🔭 Currently Working On
-
-- 🤖 Raspberry Pi LiDAR Robot with Obstacle Detection
-- 🌐 Personal Developer Portfolio
 
 ---
 
