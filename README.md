@@ -125,34 +125,6 @@ Deep Learning based medical imaging project for early lung cancer prediction.
 ---
 
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sambenjaminr&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sambenjaminr&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambenjaminr&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sambenjaminr&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
