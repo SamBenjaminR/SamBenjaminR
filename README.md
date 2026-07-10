@@ -124,17 +124,6 @@ Deep Learning based medical imaging project for early lung cancer prediction.
 
 ---
 
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sambenjaminr&theme=algolia&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
 # 👀 Profile Views
 
 <p align="center">
