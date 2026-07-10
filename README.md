@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam Benjamin R</h1>
 
 <h3 align="center">
-Software Developer | Java Developer | Electronics & Communication Engineer
+Software Developer | Java Developer | Electronics & Communication Graduate
 </h3>
 
 <p align="center">
@@ -37,7 +37,6 @@ Modern responsive developer portfolio showcasing projects, skills and resume.
 
 🔭 Currently Working On
 
-- 🚆 Smart Railway Ticket Verification System (Final Year Project)
 - 🤖 Raspberry Pi LiDAR Robot with Obstacle Detection
 - 🌐 Personal Developer Portfolio
 
