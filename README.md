@@ -115,6 +115,7 @@ Modern responsive developer portfolio showcasing projects, skills and resume.
 ## 🚧 LiDAR-Based Predictive Road Surface Anomaly Detection
 
 Road anomaly detection using Raspberry Pi, TF-Luna LiDAR and Machine Learning.
+<a href="[https://sambenjaminr.github.io/portfolio/"](https://github.com/SamBenjaminR/lung-cancer-detection-YOLO-sybil)>
 
 ---
 
